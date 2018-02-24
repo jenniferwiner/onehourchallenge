@@ -8,10 +8,12 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-            {% if site.email %}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-            <li><img class="footer-img" src="/assets/cactus-footer.svg"/></li>
+          {% if site.email %}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
+          {% if site.footer_img %}
+          <li><img class="footer-img" src="{{ site.baseurl }}{{ site.footer_img}}"/></li>
+          {% endif %}
         </ul>
       </div>
 
