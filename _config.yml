@@ -24,7 +24,7 @@ github_username1:  jenniferwiner
 github_username2:  emilyaringoen
 
 footer_img: assets/cactus-footer.svg
-# favicon: assets/images/favicon.png
+favicon: assets/jwfavicon.ico
 
 show_excerpts: true
 
