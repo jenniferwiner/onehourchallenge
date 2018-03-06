@@ -18,9 +18,9 @@ Here is my little green lock:
 Getting an SSL Certificate felt like a good first step in this journey. After finding the right tool for the job, Cloudflare (it was recommended by a friend; I floundered for a few days before connecting with this friend), the set up was quick and easy.
 
 Technology:
-Site is hosted on [Github Pages] :https://pages.github.com/
+Site is hosted on [Github Pages] (https://pages.github.com/)
 Domain purchased on mydomain.com
-[Cloudflare] :https://www.cloudflare.com/ provided the SSL certificate
+[Cloudflare] (https://www.cloudflare.com/) provided the SSL certificate
 
 How I got set up:
 1. Create a free account with Cloudflare
@@ -41,8 +41,8 @@ The only
 was figuring out where to change the NS settings on mydomain.com (the UI is not very intuitive). I needed to change both the nameservers in two places. It took me a few tries of tinkering with the setup to get this working.
 
 More background information on SSL and security if you're interested:
-[Wikipedia] :/https://en.wikipedia.org/wiki/HTTPS
-[Google Developers] :/https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https
+[Wikipedia] (https://en.wikipedia.org/wiki/HTTPS)
+[Google Developers] (https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 
 Food for thought:
 - Is an SSL certificate enough? It was easy to get the certificate so what's to stop scammers from doing the same, making visitors feel secure on fraudulent sites by displaying that little green lock as the while stealing CC numbers or personal information?
