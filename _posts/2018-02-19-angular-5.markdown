@@ -39,7 +39,3 @@ Final reactions:
 
 Post-Challenge conversation:
 When talking frontend frameworks, is opionated better? Do opionated frameworks scale better? Work better for larger teams?
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
