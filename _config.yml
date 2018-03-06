@@ -17,8 +17,9 @@ title: One Hour Challege
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   1 completely new technology. 0 ideas for what to create. 60 minutes on the clock. Ready, set, code.
-baseurl: "/onehourchallenge/" # the subpath of your site, e.g. /blog
-url: "http://jenniferwiner.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /onehourchallenge/ # the subpath of your site, e.g. /blog
+url: https://jenniferwiner.com # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: jenniferwiner.com
 twitter_username: jenniferwiner
 github_username1:  jenniferwiner
 github_username2:  emilyaringoen
