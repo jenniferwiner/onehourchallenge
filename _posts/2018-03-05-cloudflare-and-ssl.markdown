@@ -13,5 +13,4 @@ Site is hosted on [Github Pages] :https://pages.github.com/
 Domain purchased on mydomain.com
 [Cloudflare] :https://www.cloudflare.com/ provided the SSL certificate
 
-
 More background information on SSL and security if you're interested:
