@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "WebVR with A-Frame"
-date:   2018-03-12 19:29:00 -0700
+title:  "Setting up SSL on Personal Sites"
+date:   2018-03-5 21:15:00 -0700
 categories: security
 excerpt: "Setting up a free SSL Certificate on personal websites. 1 hour challenge & a how-to guide"
 ---
